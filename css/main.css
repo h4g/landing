@@ -241,7 +241,11 @@ body {
     );
     background-attachment:fixed;
 }
-h1,h2 {
+a {
+    text-decoration: none;
+    color:#3CC;
+}
+h1,h2,p {
     text-align: center;
 }
 h1 {

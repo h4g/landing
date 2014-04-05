@@ -247,10 +247,21 @@ h1,h2 {
 h1 {
     display: none;
 }
-#logo {
+#logo1Wrapper {
+    margin-top: 140px;
+    margin-bottom: 20px;
+    height: 77px;
+}
+#logo1 {
     display: block;
     margin: 0 auto;
-    margin-top: 140px;
+}
+#logo1.preanimated {
+    display: none;
+}
+#logo2 {
+    display: block;
+    margin: 0 auto;
     margin-bottom: 40px;
 }
 
